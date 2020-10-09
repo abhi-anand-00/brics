@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+h1{
+    font-size: 72px;
+    color: rgba(26, 72, 102, 0.972);
+}
+h2{
+    font-size: 50px;
+    color: rgb(105, 29, 29);
+}
+h3{
+    font-size: 25px;
+    color: rgb(20, 117, 117);
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    margin: 20px 10px 0 20px;
+}
+img{
+    width: 250px;
+    height: 200px;
+    margin: 0 10px 0 10px;
+    float: right;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
